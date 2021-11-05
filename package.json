@@ -1,6 +1,6 @@
 {
   "name": "@codevco/pino-logtail",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A pino 'transport' for writing to LogTail",
   "type": "commonjs",
   "main": "index.js",
